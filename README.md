@@ -10,7 +10,7 @@ Analysis of Russia’s global trade dynamics (1948–2024) with focus on 2014 an
 
 
 📊 Данные
-Источник: IMF Direction of Trade Statistics (DOTS)
+Источник: [IMF Direction of Trade Statistics (DOTS)](https://data.imf.org/regular.aspx?key=61013712)
 
 Период: 1948–2024
 
